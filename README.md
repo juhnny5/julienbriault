@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 What can I say about myself? Uh...Let's just say that I'm passionate about computers in general, but especially about everything that revolves around DevOps and security. 🐱‍👤
+
 I have to say, as I'm a somewhat undecided person, I like to juggle between development and infrastructure and sometimes I mix the two. 🐱‍🏍
 
 ✨ _About my projects_ ✨ 
