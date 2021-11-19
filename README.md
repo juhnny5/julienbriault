@@ -6,7 +6,7 @@ I have to say, as I'm a somewhat undecided person, I like to juggle between deve
 
 ✨ _About my projects_ ✨ 
 
-- 🔭 I’m currently working on "[Meteor](https://blog.jbriault.fr/meteor-network-security-project/)"
+- 🔭 I’m currently working on "[Ichigo](https://github.com/ichigoproject)"
 - 🌱 I’m currently learning Go/Python/Rust/C
 - 💬 I like to talk about a lot of topics [here](https://blog.jbriault.fr).
 - 📫 More about me [here](https://jbriault.fr/).
